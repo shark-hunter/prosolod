@@ -1,0 +1,220 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 May 2020 22:32:32 at https://prosolod.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir5C2%P%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://prosolod.com/ -O1 "d:\Мои Web Сайты\prosolod" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:32:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/fancybox/jquery.fancybox.css (from https://prosolod.com/)
+22:32:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/css/style.css (from https://prosolod.com/)
+22:33:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/nashi-partneryi (from https://prosolod.com/)
+22:33:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/dostavka-i-oplata (from https://prosolod.com/)
+22:33:24	Warning: 	Link https://prosolod.com/korzina not scanned (follow robots meta tag)
+22:33:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/partner1.jpg (from https://prosolod.com/)
+22:33:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/partner2.jpg (from https://prosolod.com/)
+22:33:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/partnersmap2.jpg (from https://prosolod.com/)
+22:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/countries/germany.png (from https://prosolod.com/)
+22:33:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/s-24-po-26-marta-2020-goda-v-moskve-projdet-vyistavka-proizvodstva-napitkov-beviale-moscow-2020 (from https://prosolod.com/)
+22:33:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/iLXncjq1dng.jpg (from https://prosolod.com/)
+22:34:03	Warning: 	Retry after error -4 (Connect Error) at link https://mc.yandex.ru/metrika/tag.js (from https://prosolod.com/)
+22:34:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/slick/fonts/slick.woff (from https://prosolod.com/assets/template/slick/slick-theme.css)
+22:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/slick/fonts/slick.ttf (from https://prosolod.com/assets/template/slick/slick-theme.css)
+22:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/fancybox/jquery.fancybox.css (from https://prosolod.com/)
+22:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/css/style.css (from https://prosolod.com/)
+22:34:04	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://prosolod.com/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css, 'd:/Мои Web Сайты/prosolod/prosolod.com/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.html' could not be found on disk
+22:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/f0148.jpg (from https://prosolod.com/o-kompanii)
+22:34:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/f5761.jpg (from https://prosolod.com/o-kompanii)
+22:34:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/irina.jpg (from https://prosolod.com/o-kompanii)
+22:34:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/kuznetsova.jpg (from https://prosolod.com/o-kompanii)
+22:34:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/sheveleva.jpg (from https://prosolod.com/o-kompanii)
+22:34:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/druzhinninskii.jpg (from https://prosolod.com/o-kompanii)
+22:34:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/bugrin.jpg (from https://prosolod.com/o-kompanii)
+22:34:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/semenova.jpg (from https://prosolod.com/o-kompanii)
+22:34:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/moyushhie-sredstva/ (from https://prosolod.com/solod/)
+22:34:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/pshenichnyij-solod/ (from https://prosolod.com/solod/)
+22:35:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/solod-best-wheat-malt-dark-16-20-evs (from https://prosolod.com/solod/)
+22:35:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/solod-chateau-wheat-blanc-3,5-5,5-evs (from https://prosolod.com/solod/)
+22:35:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/castle/Шато Вит Блан Castl Malting.jpg (from https://prosolod.com/solod/)
+22:35:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/bisquit.png (from https://prosolod.com/solod/)
+22:35:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/cherry.png (from https://prosolod.com/solod/)
+22:35:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/solod-best-melanoidin-61-80-evs (from https://prosolod.com/solod/)
+22:35:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/malt.png (from https://prosolod.com/solod/)
+22:35:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/honey.png (from https://prosolod.com/solod/)
+22:35:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/dates.png (from https://prosolod.com/solod/)
+22:35:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/solod-best-caramel-amber-61-80-evs (from https://prosolod.com/solod/)
+22:35:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/solod-best-caramel-munich-i-81-100-evs (from https://prosolod.com/solod/)
+22:35:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/licorice.png (from https://prosolod.com/solod/)
+22:35:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/solod-best-caramel-munich-iii-131-200-evs (from https://prosolod.com/solod/)
+22:35:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/tasty/chocolate.png (from https://prosolod.com/solod/)
+22:35:47	Warning: 	HTML file (6349 bytes) retransferred due to lack of cache: https://prosolod.com/en/solod-en/
+22:35:52	Warning: 	HTML file (2135 bytes) retransferred due to lack of cache: https://prosolod.com/en/news-en/
+22:36:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/chateau-crystal-150-evs (from https://prosolod.com/drozhzhi-safale-be-256)
+22:36:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/castle/Шато кристалл 150.jpg (from https://prosolod.com/drozhzhi-safale-be-256)
+22:36:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/safale-be-256-en (from https://prosolod.com/drozhzhi-safale-be-256)
+22:36:26	Warning: 	HTML file (5983 bytes) retransferred due to lack of cache: https://prosolod.com/en/catalog-en/
+22:37:23	Warning: 	Retry after error -4 (Connect Error) at link https://mc.yandex.ru/metrika/tag.js (from https://prosolod.com/)
+22:37:25	Warning: 	File not parsed, looks like binary: https://prosolod.com/assets/template/slick/fonts/slick.woff
+22:37:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/slick/fonts/slick.ttf (from https://prosolod.com/assets/template/slick/slick-theme.css)
+22:37:28	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://prosolod.com/assets/template/fancybox/jquery.fancybox.css (from https://prosolod.com/)
+22:37:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://prosolod.com/assets/template/css/style.css (from https://prosolod.com/)
+22:37:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/kuznetsova.jpg (from https://prosolod.com/o-kompanii)
+22:37:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/sheveleva.jpg (from https://prosolod.com/o-kompanii)
+22:37:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/team/druzhinninskii.jpg (from https://prosolod.com/o-kompanii)
+22:37:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/VAN_5545.jpg (from https://prosolod.com/en/about-prosolod)
+22:37:36	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://prosolod.com/img/VAN_5518.jpg, 'd:/Мои Web Сайты/prosolod/prosolod.com/img/VAN_5518.html' could not be found on disk
+22:37:37	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://prosolod.com/img/VAN_5512.jpg, 'd:/Мои Web Сайты/prosolod/prosolod.com/img/VAN_5512.html' could not be found on disk
+22:37:38	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://prosolod.com/img/VAN_5554.jpg, 'd:/Мои Web Сайты/prosolod/prosolod.com/img/VAN_5554.html' could not be found on disk
+22:37:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/ПЭК лого.png (from https://prosolod.com/dostavka-i-oplata)
+22:37:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/Возовоз лого.png (from https://prosolod.com/dostavka-i-oplata)
+22:37:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/assets/template/parallax/jquery.parallax.js (from https://prosolod.com/dostavka-i-oplata)
+22:37:48	Warning: 	HTML file (5523 bytes) retransferred due to lack of cache: https://prosolod.com/en/xmel-en/
+22:37:48	Warning: 	HTML file (3683 bytes) retransferred due to lack of cache: https://prosolod.com/en/yeast/
+22:37:51	Warning: 	HTML file (3067 bytes) retransferred due to lack of cache: https://prosolod.com/en/kieselguhr/
+22:37:53	Warning: 	HTML file (3567 bytes) retransferred due to lack of cache: https://prosolod.com/en/base-malts-en/
+22:37:55	Warning: 	HTML file (6231 bytes) retransferred due to lack of cache: https://prosolod.com/en/special-malt-en/
+22:37:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/solod-en/?page=2 (from https://prosolod.com/solod/?page=2)
+22:37:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/amerikanskij-xmel/ (from https://prosolod.com/xmel/)
+22:38:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/countries/cz.png (from https://prosolod.com/xmel/)
+22:38:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/xmel-saphir-3,8 (from https://prosolod.com/xmel/)
+22:38:27	Warning: 	HTML file (2413 bytes) retransferred due to lack of cache: https://prosolod.com/solod-en/
+22:40:07	Warning: 	HTML file (4360 bytes) retransferred due to lack of cache: https://prosolod.com/en/evropejskij-xmel-en/
+22:40:13	Warning: 	HTML file (3741 bytes) retransferred due to lack of cache: https://prosolod.com/shhelochnyie/
+22:41:04	Error: 	"Not Found" (404) at link https://prosolod.com/solod-en/ (from https://prosolod.com/en/solod-en/)
+22:41:04	Error: 	"Not Found" (404) at link https://prosolod.com/solod-en/?page=2 (from https://prosolod.com/en/solod-en/)
+22:41:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau Munich Light 15.jpg (from https://prosolod.com/en/solod-en/)
+22:41:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau Munich 25.jpg (from https://prosolod.com/en/solod-en/)
+22:41:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau BISCUIT 50.jpg (from https://prosolod.com/en/solod-en/)
+22:41:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau CARA Сlair 3-6.jpg (from https://prosolod.com/en/solod-en/)
+22:41:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/xmel-v-pivovarenii (from https://prosolod.com/novosti/?page=2)
+22:41:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/hm-beer7.jpg (from https://prosolod.com/novosti/?page=2)
+22:41:21	Warning: 	Found for https://prosolod.com/en/news-en/?page=2
+22:41:21	Warning: 	File has moved from https://prosolod.com/en/news-en/?page=2 to /en/news-en/
+22:41:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/mailservice00_2.png (from https://prosolod.com/iv-yuzhnyij-forum-pivovarov)
+22:41:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/statya_may5.jpg (from https://prosolod.com/novosti/?page=3)
+22:41:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/izmenenie-gosta-na-pivo (from https://prosolod.com/novosti/?page=3)
+22:41:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/amerikanskij-krepkij-el-xarakteristiki-stilya-i-reczept (from https://prosolod.com/novosti/?page=3)
+22:41:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/kak-ispolzuyut-ovoshhi-v-pivovarenii (from https://prosolod.com/novosti/?page=3)
+22:41:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/kakie-dokumentyi-nuzhnyi-dlya-otkryitiya-pivovarni (from https://prosolod.com/novosti/?page=3)
+22:41:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/belgijskij-dubbel-xarakteristiki-stilya-i-reczept (from https://prosolod.com/novosti/?page=3)
+22:41:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/sochnoe-ne-znachit-mutnoe-kak-poluchit-fruktovyij-vkus-bez-lishnej-muti (from https://prosolod.com/novosti/?page=3)
+22:41:35	Warning: 	Found for https://prosolod.com/en/news-en/?page=3
+22:41:35	Warning: 	File has moved from https://prosolod.com/en/news-en/?page=3 to /en/news-en/
+22:41:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/dec_8.jpg (from https://prosolod.com/novosti/?page=4)
+22:41:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/dec_1.jpg (from https://prosolod.com/novosti/?page=4)
+22:41:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/downloads-prewiev-7.jpg (from https://prosolod.com/novosti/?page=4)
+22:41:48	Warning: 	Found for https://prosolod.com/en/news-en/?page=4
+22:41:48	Warning: 	File has moved from https://prosolod.com/en/news-en/?page=4 to /en/news-en/
+22:41:51	Warning: 	HTML file (3317 bytes) retransferred due to lack of cache: https://prosolod.com/en/detergents/
+22:41:56	Warning: 	HTML file (3533 bytes) retransferred due to lack of cache: https://prosolod.com/en/wheat-malt-en/
+22:41:56	Warning: 	Found for https://prosolod.com/en/news-en/?page=5
+22:41:56	Warning: 	File has moved from https://prosolod.com/en/news-en/?page=5 to /en/news-en/
+22:41:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/minimalnyij-obem-otgruzok (from https://prosolod.com/novosti/?page=6)
+22:41:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/beer-cap1.jpg (from https://prosolod.com/novosti/?page=6)
+22:41:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/xxvi-mezhdunarodnyij-forum-pivo-2017 (from https://prosolod.com/novosti/?page=6)
+22:42:10	Warning: 	Found for https://prosolod.com/en/news-en/?page=6
+22:42:10	Warning: 	File has moved from https://prosolod.com/en/news-en/?page=6 to /en/news-en/
+22:42:11	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/news-en/ (from https://prosolod.com/en/news-en/)
+22:42:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/chateau-crystal-150-evs (from https://prosolod.com/drozhzhi-safale-be-256)
+22:42:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/evropejskij-xmel/?vendor=10 (from https://prosolod.com/evropejskij-xmel/)
+22:43:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/Specificates_safl/SafLager S-23-RU.pdf (from https://prosolod.com/drozhzhi-saflager-s-23)
+22:43:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/saflager-s-23-en (from https://prosolod.com/drozhzhi-saflager-s-23)
+22:43:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/safale-f-2-en (from https://prosolod.com/drozhzhi-safale-f-2)
+22:43:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/003fs.png (from https://prosolod.com/drozhzhi-safale-s-04)
+22:43:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/Specificates_safl/SafAle S-04-RU.pdf (from https://prosolod.com/drozhzhi-safale-s-04)
+22:43:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/safale-k-97-en (from https://prosolod.com/drozhzhi-safale-k-97)
+22:43:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/kompomol-k-kalgon (from https://prosolod.com/produkcziya/?page=3)
+22:43:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/catalog-en/?page=3 (from https://prosolod.com/produkcziya/?page=3)
+22:43:40	Error: 	"Not Found" (404) at link https://prosolod.com/catalog-en/ (from https://prosolod.com/en/catalog-en/)
+22:43:40	Error: 	"Not Found" (404) at link https://prosolod.com/catalog-en/?page=2 (from https://prosolod.com/en/catalog-en/)
+22:43:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/VAN_2989.png (from https://prosolod.com/en/catalog-en/)
+22:43:41	Error: 	"Connect Error" (-4) after 2 retries at link https://mc.yandex.ru/metrika/tag.js (from https://prosolod.com/)
+22:43:42	Warning: 	File not parsed, looks like binary: https://prosolod.com/assets/template/slick/fonts/slick.ttf
+22:43:42	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://prosolod.com/img/team/druzhinninskii.jpg (from https://prosolod.com/o-kompanii)
+22:43:43	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://prosolod.com/img/VAN_5545.jpg, 'd:/Мои Web Сайты/prosolod/prosolod.com/img/VAN_5545.jpg' could not be found on disk
+22:43:43	Warning: 	HTML file (3032 bytes) retransferred due to lack of cache: https://prosolod.com/en/disinfectants/
+22:43:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/VAN_5518.jpg (from https://prosolod.com/img/VAN_5518.jpg)
+22:43:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/VAN_5512.jpg (from https://prosolod.com/img/VAN_5512.jpg)
+22:43:44	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://prosolod.com/assets/components/ajaxform/css/lib/jquery.jgrowl.min.css, 'd:/Мои Web Сайты/prosolod/prosolod.com/assets/components/ajaxform/css/lib/jquery.jgrowl.min.html' could not be found on disk
+22:43:44	Warning: 	HTML file (2418 bytes) retransferred due to lack of cache: https://prosolod.com/catalog-en/?page=3
+22:43:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/chateau-cara-ruby-50-ebc-en (from https://prosolod.com/solod-chateau-cara-ruby-50-evs)
+22:43:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/chateau-cafe-light-250-ebc-en (from https://prosolod.com/solod-chateau-cafe-light-250-evs)
+22:44:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/xmel-en/?vendor=10 (from https://prosolod.com/xmel/johbarth-son-сzech)
+22:44:01	Warning: 	HTML file (4113 bytes) retransferred due to lack of cache: https://prosolod.com/en/amerikanskij-xmel-en/
+22:44:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/xmel/?vendor=10 (from https://prosolod.com/xmel/johbarth-son-сzech)
+22:44:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/herkules-15,0-en (from https://prosolod.com/xmel-herkules-15,0)
+22:44:05	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/xmel-en/ (from https://prosolod.com/en/xmel-en/)
+22:44:05	Error: 	"Not Found" (404) at link https://prosolod.com/xmel-en/?page=2 (from https://prosolod.com/en/xmel-en/)
+22:44:05	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/yeast/ (from https://prosolod.com/en/yeast/)
+22:44:05	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/kieselguhr/ (from https://prosolod.com/en/kieselguhr/)
+22:44:06	Warning: 	HTML file (3037 bytes) retransferred due to lack of cache: https://prosolod.com/en/acidic/
+22:44:08	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/base-malts-en/ (from https://prosolod.com/en/base-malts-en/)
+22:44:11	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/special-malt-en/ (from https://prosolod.com/en/special-malt-en/)
+22:44:11	Error: 	"Not Found" (404) at link https://prosolod.com/special-malt-en/?page=2 (from https://prosolod.com/en/special-malt-en/)
+22:44:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau CAFE LIGHT 250.jpg (from https://prosolod.com/en/special-malt-en/)
+22:44:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau SPECIAL B 300.jpg (from https://prosolod.com/en/special-malt-en/)
+22:44:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Belsolod karamelniy.jpg (from https://prosolod.com/en/solod-en/?vendor=13)
+22:44:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Maltoza caramel.jpg (from https://prosolod.com/en/solod-en/?vendor=6)
+22:44:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau Rye 4-10.jpg (from https://prosolod.com/en/solod-en/?vendor=3)
+22:44:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/kompomol-shh-en (from https://prosolod.com/kompomol-shh)
+22:44:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/best-wheat-malt-dark-16-20-ebc-en (from https://prosolod.com/solod-best-wheat-malt-dark-16-20-evs)
+22:44:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/chateau-wheat-blanc-3,5-5,5-ebc-en (from https://prosolod.com/solod-chateau-wheat-blanc-3,5-5,5-evs)
+22:44:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/pilsner-urquell.jpg (from https://prosolod.com/pivo-pilzner-(pilsner)-–-cheshskij-dedushka-lagerov)
+22:44:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/pilsner-urquell (1).jpg (from https://prosolod.com/pivo-pilzner-(pilsner)-–-cheshskij-dedushka-lagerov)
+22:44:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/statya_may2.jpg (from https://prosolod.com/kak-opredelit-vkus-raznyix-tipov-bazovogo-soloda-v-pive)
+22:44:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/statya_may5.jpg (from https://prosolod.com/novosti/?page=3)
+22:44:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/4-img8.jpg (from https://prosolod.com/chto-takoe-pivovarnya-polnogo-i-nepolnogo-proizvodstvennogo-czikla)
+22:44:34	Error: 	Exit requested by shell or user
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/144.jpg (from https://prosolod.com/chto-takoe-pivovarnya-polnogo-i-nepolnogo-proizvodstvennogo-czikla)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/VEN_0914.jpg (from https://prosolod.com/chto-takoe-pivovarnya-polnogo-i-nepolnogo-proizvodstvennogo-czikla)
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/0d357a242123a519bf904adfce1b6d5c09233b66a9b07aca19e437109c559bea_facebook.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/57ff0e05d90df02b7b21d6fbe535396571032fea_3000.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/DdftwEaV4AAf9Vl.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/doc.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/4-img11.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/how-to-drink-dark-beer01-630x441_1_.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/23-Chocolate1.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/1200px-Bornemdubbel.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/2aF_kPR4b1w.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/VEN_0409.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/Без названия.png
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/2DIzBKZG9fw.jpg
+22:44:35	Warning: 	File not added due to mirror cancel: https://prosolod.com/img/HZ5f2YLWzG4.jpg
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/dec_2.jpg (from https://prosolod.com/pivnyie-stili)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/dec_7.jpg (from https://prosolod.com/pivnyie-stili)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/dec_5.jpg (from https://prosolod.com/pivnyie-stili)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/downloads-prewiev-7.jpg (from https://prosolod.com/novosti/?page=4)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/solod_noyabr5.jpg (from https://prosolod.com/kak-opredelit-kachestvo-pivovarennogo-soloda)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/prosolod_oktyabr15.jpg (from https://prosolod.com/neobyichnyie-sorta-piva)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/prosolod_oktyabr16.jpg (from https://prosolod.com/neobyichnyie-sorta-piva)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/prosolod_oktyabr07.jpg (from https://prosolod.com/assortiment-piva-v-bare)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/prosolod_oktyabr06.jpg (from https://prosolod.com/assortiment-piva-v-bare)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/otyabr_solod.jpeg (from https://prosolod.com/kak-delayut-pivo)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/otyabr_hmel.jpg (from https://prosolod.com/kak-delayut-pivo)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/пиво_prosolod.jpg (from https://prosolod.com/kak-delayut-pivo)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/kraft1_oktyabr.jpg (from https://prosolod.com/pochemu-kraftovoe-pivo-takoe-dorogoe)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/IMG_2925.JPG (from https://prosolod.com/korporativ-2018)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/newsimages/beer-cap1.jpg (from https://prosolod.com/novosti/?page=6)
+22:44:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/xxvi-mezhdunarodnyij-forum-pivo-2017 (from https://prosolod.com/novosti/?page=6)
+22:44:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://prosolod.com/chateau-crystal-150-evs (from https://prosolod.com/drozhzhi-safale-be-256)
+22:44:35	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/evropejskij-xmel-en/ (from https://prosolod.com/en/evropejskij-xmel-en/)
+22:44:35	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/en/alkaline/ (from https://prosolod.com/shhelochnyie/)
+22:44:35	Error: 	"Not Found" (404) at link https://prosolod.com/catalog-en/?page=3 (from https://prosolod.com/en/catalog-en/?page=2)
+22:44:36	Warning: 	File not added due to mirror cancel: https://prosolod.com/en/kompomol-k-kalgon-en
+22:44:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/VAN_2989.png (from https://prosolod.com/en/catalog-en/)
+22:44:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/chateau-cara-ruby-50-ebc-en (from https://prosolod.com/solod-chateau-cara-ruby-50-evs)
+22:44:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/amerikanskij-xmel/?vendor=10 (from https://prosolod.com/amerikanskij-xmel/)
+22:44:37	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/detergents/ (from https://prosolod.com/en/detergents/)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/wheat-malt-en/?vendor=7 (from https://prosolod.com/pshenichnyij-solod/?vendor=7)
+22:44:37	Error: 	"Error when decompressing" (-1) at link https://prosolod.com/wheat-malt-en/ (from https://prosolod.com/en/wheat-malt-en/)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/production/Chateau Rye 4-10.jpg (from https://prosolod.com/en/solod-en/?vendor=3)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/best-wheat-malt-dark-16-20-ebc-en (from https://prosolod.com/solod-best-wheat-malt-dark-16-20-evs)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/en/chateau-wheat-blanc-3,5-5,5-ebc-en (from https://prosolod.com/solod-chateau-wheat-blanc-3,5-5,5-evs)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/pilsner-urquell.jpg (from https://prosolod.com/pivo-pilzner-(pilsner)-–-cheshskij-dedushka-lagerov)
+22:44:37	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://prosolod.com/img/statya_may5.jpg (from https://prosolod.com/novosti/?page=3)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/VEN_0682.jpg (from https://prosolod.com/izmenenie-gosta-na-pivo)
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://prosolod.com/img/6c2ac7e7c812d755a071d70a13b_12af695cf6c0212f07c347c6769842b8.jpg (from https://prosolod.com/izmenenie-gosta-na-pivo)
+22:44:37	Error: 	"Not Found" (404) at link https://prosolod.com/catalog-en/?page=4 (from https://prosolod.com/en/catalog-en/?page=3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 5 seconds : 948 links scanned, 778 files written (68133158 bytes overall), 430 files updated [2981030 bytes received at 4111 bytes/sec], 7240293 bytes transferred using HTTP compression in 437 files, ratio 25%, 5.2 requests per connection
+(25 errors, 184 warnings, 0 messages)
